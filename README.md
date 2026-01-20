@@ -88,7 +88,7 @@ prime-video-content-analytics/
 
 ##  Dashboard Preview
 
-(Add your dashboard screenshot here)
+Snapshot of dashboard.png
 
 ```
 Images/dashboard_preview.png
