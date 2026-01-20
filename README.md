@@ -74,7 +74,7 @@ Some examples of insights that can be derived:
 ##  How to Use
 
 1. Clone the repository
-2. Open `PrimeVideo_Dashboard.pbix` in Power BI Desktop
+2. Open `Amazonprime.pbit` in Power BI Desktop
 3. Refresh data if needed
 4. Explore interactive visuals and slicers
 
